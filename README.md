@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Valdeir Nascimento
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Java
-- 👯 I’m looking to collaborate on ...
 
 <div align="center">
   <a href="https://github.com/valdeir-nascimento">
